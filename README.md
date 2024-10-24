@@ -1,7 +1,7 @@
 # :rocket:C# Eğitim Kampı
 
 Bu repo, Murat Yücedağ'ın YouTube üzerinden hazırladığı [C# Eğitim Kampı](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr) kapsamında oluşturulmuştur. Projelerin içerikleri derslerde işlenilen konuların olduğu temel uygulamaları içermektedir. 
-Kamp süresi boyunca yeni projeler eklenmeye devam edilecektir.
+Kamp süresi boyunca yeni projeler eklemeye devam edilecektir.
 
 
 
