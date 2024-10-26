@@ -48,3 +48,8 @@ Bu projede metotlar konusuna giriş yapıldı. Geriye değer döndüren ve geriy
 
 ### :pushpin:Proje 9 - [Database Project](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/09_DatabaseProject)
 Bu projede veri tabanı konusuna giriş yapıldı. MSSQL ile çalışıldı. Tablo oluşturma ve sorgu ile tablodaki verileri listelemeyle ilgili çalışmalar yapıldı.
+
+---
+
+### :pushpin:Proje 10 - [Database Crud](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/10_DatabaseCrud)
+CRUD işlemleri ele alındı. Veri tabanına ekleme, güncelleme ve silme işlemleri için gerekli sorgu yöntemleriyle çalışmalar yapıldı.
