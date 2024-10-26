@@ -21,7 +21,7 @@ namespace _09_DatabaseProject
 
             //Console.WriteLine("--------------------------------------------------");
 
-            ////Kategori Seçimi
+            //Kategori Seçimi
             //Console.WriteLine("1-Kategoriler");
             //Console.WriteLine("2-Ürünler");
             //Console.WriteLine("3-Siparişler");
