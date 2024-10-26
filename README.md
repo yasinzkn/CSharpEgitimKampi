@@ -6,7 +6,7 @@ Kamp süresi boyunca yeni projeler eklemeye devam edilecektir.
 
 
 ## Proje İçerikleri
-### :pushpin:Proje 1 - [Main Subjects](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/01_MainSubjects)
+### :pushpin:Proje 1 - [MainSubjects](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/01_MainSubjects)
 Bu projede yazdırma komutları ile birlikte string ve integer veri türleri ele alındı. Örnek uygulama ile pratik yapmamız sağlandı.
 
 ---
@@ -16,7 +16,7 @@ Bu projede double ve char veri türlerinin yanı sıra kullanıcı tarafından v
 
 ---
 
-### :pushpin:Proje 3 - [Making Decision](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/03_MakingDecision)
+### :pushpin:Proje 3 - [MakingDecision](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/03_MakingDecision)
 Projede karar yapıları ele alındı. If-Else ve Switch Case yapıları ile ilgili örnek uygulamalar yapıldı.
 
 ---
@@ -26,7 +26,7 @@ Döngüler konusu işlendi. for ve while döngüleri ele alınıp örnek uygulam
 
 ---
 
-### :pushpin:Proje 5 - [Loops With Stars](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/05_LoopsWithStars)
+### :pushpin:Proje 5 - [LoopsWithStars](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/05_LoopsWithStars)
 Bu projede for döngüsü ile şekil çizme uygulamaları yapıldı.
 
 ---
@@ -46,10 +46,10 @@ Bu projede metotlar konusuna giriş yapıldı. Geriye değer döndüren ve geriy
 
 ---
 
-### :pushpin:Proje 9 - [Database Project](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/09_DatabaseProject)
+### :pushpin:Proje 9 - [DatabaseProject](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/09_DatabaseProject)
 Bu projede veri tabanı konusuna giriş yapıldı. MSSQL ile çalışıldı. Tablo oluşturma ve sorgu ile tablodaki verileri listelemeyle ilgili çalışmalar yapıldı.
 
 ---
 
-### :pushpin:Proje 10 - [Database Crud](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/10_DatabaseCrud)
+### :pushpin:Proje 10 - [DatabaseCrud](https://github.com/yasinzkn/CSharpEgitimKampi/tree/master/10_DatabaseCrud)
 CRUD işlemleri ele alındı. Veri tabanına ekleme, güncelleme ve silme işlemleri için gerekli sorgu yöntemleriyle çalışmalar yapıldı.
